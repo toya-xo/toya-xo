@@ -1,5 +1,5 @@
 {
- "key": "e7decb03",
+ "key": "7ede2d60",
  "stars": 2,
  "contributions": 300,
  "repos": 4,
@@ -113,14 +113,18 @@
    {
     "c": 0,
     "day": 26,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 27,
     "today": true
    },
-   null,
    null
   ]
  ],
  "streak": {
-  "current": 2,
+  "current": 0,
   "longest": 7
  },
  "pins": [
